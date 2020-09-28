@@ -24,7 +24,7 @@ Se estiver um único argumento e podendo ser escrito na mesma linha não preciso
 array1.forEach(element => console.log(element));
 
 
-**Exercício ** 
+**Exercício** 
 
 
 1- Uma const imgs para seleciona todas as imagens com  querySelectorAll(),forEach chamando o argumento valor e índice.
