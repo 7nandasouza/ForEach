@@ -12,7 +12,7 @@ O forEach executa callback fornecido uma vez para cada elemento, levando três a
    * o vetor (array) que está a ser percorrido
 
 
-**NEGRITO** Sintaxe
+**Sintaxe** 
 
 vet.forEach(function callback(presenteValor[, indice[, vetor]]) {
     //o teu iterador
@@ -24,7 +24,7 @@ Se estiver um único argumento e podendo ser escrito na mesma linha não preciso
 array1.forEach(element => console.log(element));
 
 
-**NEGRITO** Exercício 
+**Exercício ** 
 
 
 1- Uma const imgs para seleciona todas as imagens com  querySelectorAll(),forEach chamando o argumento valor e índice.
